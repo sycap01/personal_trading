@@ -8,8 +8,6 @@ class PersonalTradingApplicationTests {
 
 	@Test
 	void contextLoads() {
-
-
 	}
 
 }
